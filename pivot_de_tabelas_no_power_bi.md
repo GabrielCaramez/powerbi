@@ -1,0 +1,1 @@
+= Table.UnpivotOtherColumns(#"Tipo Alterado1",{"Tipo", "Componente"}, "Data", "Valor")
